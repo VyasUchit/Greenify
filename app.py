@@ -2,7 +2,7 @@
 GreenReArchitect - AI-Powered Urban Heat Mitigation Platform
 Unit 7: Model Deployment with Streamlit
 """
-
+#Greenify your city with AI! 🌿🔥#
 import streamlit as st
 import pandas as pd
 import numpy as np
