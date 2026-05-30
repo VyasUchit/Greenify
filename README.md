@@ -155,6 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for easy web app deployment
 - Open-source computer vision community
 
-## Author 
-Uchit Vyas
-Hiral Sathwara
+## Contributors
+
+* Uchit vyas
+* Hiral Sathwara
