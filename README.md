@@ -155,8 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for easy web app deployment
 - Open-source computer vision community
 
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/GreenReArchitect](https://github.com/yourusername/GreenReArchitect)
+##Author 
+Uchit Vyas
+Hiral Sathwara
